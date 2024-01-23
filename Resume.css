@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(black 20%, grey);
+    width: 1500px;
+    height: 1500px;
+}
+#navigation_menu {
+    top: 0;
+    right: 0;
+    position: fixed;
+}
+.header_button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 7;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(69, 67, 63);
+}
+#my_image {
+    background-position: center;
+    border-radius: 50%;
+    border: 3px solid white;
+}
